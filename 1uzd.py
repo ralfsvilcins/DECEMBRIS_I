@@ -1,7 +1,7 @@
 # ievadi skaitli
 skaitlis = int(input("Ievadiet skaitli: "))
 
-# ievada ka skaitlis ir lielāks par 0 jeb ir pozitivs
+# ievada ka skaitlis ir lielāks par 0 un ir pozitivs
 if skaitlis <= 0:
     print("Lūdzu ievadiet pozitīvu skaitli.")
 else:
